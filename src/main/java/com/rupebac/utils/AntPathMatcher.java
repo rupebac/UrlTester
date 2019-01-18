@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.genclone.utils;
+package com.rupebac.utils;
 
 import java.util.ArrayList;
 import java.util.Collection;

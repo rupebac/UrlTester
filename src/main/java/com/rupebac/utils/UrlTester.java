@@ -1,4 +1,4 @@
-package com.genclone.utils;
+package com.rupebac.utils;
 
 public class UrlTester {
     private static void showHelp() {
