@@ -11,8 +11,8 @@ public class UrlTester {
             return;
         }
 
-        String testUrl = args[1];
-        String pattern = args[2];
+        String testUrl = args[0];
+        String pattern = args[1];
 
         AntPathMatcher matcher = new AntPathMatcher();
         boolean antMatches = matcher.match(pattern, testUrl);
